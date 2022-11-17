@@ -294,7 +294,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/img-71.jpeg);
     height: auto;
     padding-bottom: 50px;
     background-size: 100%;
@@ -309,7 +309,7 @@ button {
     width: 100%;
     float: left;
     font-size: 100px;
-    color: #090808;
+    color: #ffffff;
     text-align: center;
     text-transform: uppercase;
 }
@@ -317,7 +317,7 @@ button {
     width: 50%;
     margin: 0 auto;
     font-size: 16px;
-    color: #090808;
+    color: #ffffff;
     text-align: center;
 }
 .contact_bt_main{
@@ -595,7 +595,8 @@ a:hover {
 .who_section{
     width: 100%;
     float: left;
-    background-image: url(../images/bg-1.png);
+    opacity: 0.8;
+    background-image: url(../images/img-1.jpg);
     height: auto;
     padding-bottom: 55px;
     background-size: 100%;
@@ -604,7 +605,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 36px;
-    color: #ffffff;
+    color: black;
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
@@ -613,7 +614,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #ffffff;
+    color: black;
     text-align: center;
     text-transform: uppercase;
 }
@@ -621,7 +622,8 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: black;
+    opacity: 1;
     text-align: center;
     margin-left: 0px;
 }
@@ -1017,10 +1019,3 @@ textarea#comment::placeholder {
 .copyright_text a:hover{
     color: #fdbe28;
 }
-
-
-
-
-
-
-
